@@ -1,0 +1,2 @@
+# SoftwareGestionEducativa
+Fines educativos
